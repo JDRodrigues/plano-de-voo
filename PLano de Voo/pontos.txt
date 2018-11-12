@@ -1,0 +1,6 @@
+Lista das coordenadas de todos os pontos de tomada de fotos
+
+ Cordenadas dos pontos
+ ID            X(m)                Y(m)               Z(m)
+1000   NaN    NaN     121.0
+1001   NaN    NaN     121.0

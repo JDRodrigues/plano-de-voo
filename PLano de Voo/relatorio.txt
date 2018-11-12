@@ -1,0 +1,32 @@
+                   RELATÓRIO 
+                  Plano de Voo 
+
+Mon Jan 16 17:31:52 GMT 2017
+
+Dados introduzidos pelo utilizador:
+
+Câmara utilizada: Intergraph - DMC
+Custo de cada fotografia: 1.0 €
+Custo de voo : 1.0 €/h
+Área a levantar: 0.0 m x 0.0 m
+Cota média do terreno: 1.0 m
+Módulo da escala das fotografia: 1.0 m
+Sobreposição longitudinal: 1.0%
+Sobreposição lateral: 1.0%
+Tempo de voo na troca de fiada: 1.0 min
+
+
+Resultados:
+
+Velocidade de voo: 1.0 km\h
+Comprimetno da base aérea: 0.09123840000000001 m
+Distancia entre eixos de fiadas: 0.16422912 m
+Número de Fiadas: 1
+Número de modelos por fiada´: 1
+Número de fotografias por fiada: 2
+Tempo de voo: 0.01675790506666667
+
+Orçamento:
+Preço das fotografias: 2.0 €
+Preço do voo: 0.01675790506666667 €
+Preço total: 2.0167579050666666 €
